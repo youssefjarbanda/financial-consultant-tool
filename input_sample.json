@@ -1,0 +1,90 @@
+[
+  {
+    "family": "Ahmad Family",
+    "month": "2026-03",
+    "income": 1380000,
+    "expenses": {
+      "Rent": 1134000,
+      "Food": 640000,
+      "Transport": 180000,
+      "Entertainment": 150000,
+      "Other": 90000
+    }
+  },
+  {
+    "family": "Nour Family",
+    "month": "2026-03",
+    "income": 1200000,
+    "expenses": {
+      "Rent": 900000,
+      "Food": 450000,
+      "Transport": 150000,
+      "Entertainment": 100000,
+      "Other": 50000
+    }
+  },
+  {
+    "family": "Layla Workshop",
+    "month": "2026-03",
+    "income": 2100000,
+    "expenses": {
+      "Rent": 745000,
+      "food": 500000,
+      "Transport": 200000,
+      "Entertainment": 250000,
+      "Charity": 120000
+    }
+  },
+  {
+    "family": "Hussam Family",
+    "month": "2026-03",
+    "income": 0,
+    "expenses": {
+      "Rent": 400000,
+      "Food": 200000
+    }
+  },
+  {
+    "family": "Bassel Family",
+    "month": "2026-03",
+    "income": -850000,
+    "expenses": {
+      "Rent": 500000,
+      "Food": 300000
+    }
+  },
+  {
+    "family": "Rania Family",
+    "month": "2026-03",
+    "income": 1800000
+  },
+  {
+    "family": "",
+    "month": "2026-03",
+    "income": 900000,
+    "expenses": {
+      "Rent": 300000
+    }
+  },
+  {
+    "family": "Kamal Family",
+    "month": "2026-03",
+    "income": 1500000,
+    "expenses": {
+      "Rent": 450000,
+      "Food": "three hundred thousand",
+      "Transport": 100000
+    }
+  },
+  {
+    "family": "Ziad Family",
+    "month": "2026-03",
+    "income": 2000000,
+    "expenses": {
+      "Rent": 600000,
+      "Food": 380000,
+      "Transport": -75000,
+      "Entertainment": 90000
+    }
+  }
+]
