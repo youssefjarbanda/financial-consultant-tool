@@ -13,7 +13,7 @@ try:
         data = json.load(file)
 except FileNotFoundError:
     logging.error(f"Could not find \"input_sample.json\"")
-    data = []
+    
   
 
     with open("families_data", "w") as file:
@@ -164,7 +164,7 @@ for acceptedfamilies in accepted:
         }
     }
     
-    # 3. Add each family report into our list
+    
     report_results.append(family_report)
 
 with open("report.json", "w") as report_file:
